@@ -39,11 +39,6 @@ def test_auth(request):
     return HttpResponse("OK")
 
 
-PROTEIN_KCAL = 4
-CARB_KCAL = 4
-FAT_KCAL = 9
-
-
 @api_view(http_method_names=["GET"])
 @permission_classes([IsAuthenticated])
 def generate_menu(request):

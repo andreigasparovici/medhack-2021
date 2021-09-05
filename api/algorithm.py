@@ -1,4 +1,3 @@
-import random
 from typing import List
 
 import numpy as np
@@ -13,8 +12,6 @@ FAT_KCAL = 9
 
 class MealProblem:
     def __init__(self, foods: List[Food], meal_type: MealType, energy_per_day: float, coefficient=1):
-        # self.foods = foods.order_by('?')[:5]
-        # print(self.foods)
         self.foods = foods
 
         self.coefficient = coefficient
