@@ -9,7 +9,7 @@ Example of a generated daily meal plan:
 [
     {
         "name": "Mic dejun",
-        "meals": [
+        "foods": [
             {
                 "name": "Iaurt",
                 "quantity": 113,
@@ -24,7 +24,7 @@ Example of a generated daily meal plan:
     },
     {
         "name": "Gustare",
-        "meals": [
+        "foods": [
             {
                 "name": "Afine",
                 "quantity": 107,
@@ -39,7 +39,7 @@ Example of a generated daily meal plan:
     },
     {
         "name": "Prânz",
-        "meals": [
+        "foods": [
             {
                 "name": "Somon",
                 "quantity": 152,
@@ -59,7 +59,7 @@ Example of a generated daily meal plan:
     },
     {
         "name": "Gustare",
-        "meals": [
+        "foods": [
             {
                 "name": "Afine",
                 "quantity": 107,
@@ -74,7 +74,7 @@ Example of a generated daily meal plan:
     },
     {
         "name": "Cină",
-        "meals": [
+        "foods": [
             {
                 "name": "Supă cremă de linte",
                 "quantity": 115,
